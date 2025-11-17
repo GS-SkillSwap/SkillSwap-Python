@@ -1,0 +1,210 @@
+[
+  {
+    "Pais": "EUA",
+    "Populacao_Milhoes": 340.0,
+    "PIB_Trilhoes_USD": 29.18,
+    "Forca_Trabalho_Agricultura_Pct": 1.2,
+    "Taxa_Desemprego_Pct": 4.3,
+    "Usuarios_Internet_Pct": 91.8
+  },
+  {
+    "Pais": "China",
+    "Populacao_Milhoes": 1409.5,
+    "PIB_Trilhoes_USD": 18.77,
+    "Forca_Trabalho_Agricultura_Pct": 22.3,
+    "Taxa_Desemprego_Pct": 5.3,
+    "Usuarios_Internet_Pct": 80.0
+  },
+  {
+    "Pais": "Japao",
+    "Populacao_Milhoes": 125.7,
+    "PIB_Trilhoes_USD": 4.937,
+    "Forca_Trabalho_Agricultura_Pct": 2.4,
+    "Taxa_Desemprego_Pct": 2.6,
+    "Usuarios_Internet_Pct": 82.9
+  },
+  {
+    "Pais": "Alemanha",
+    "Populacao_Milhoes": 83.2,
+    "PIB_Trilhoes_USD": 4.223,
+    "Forca_Trabalho_Agricultura_Pct": 0.8,
+    "Taxa_Desemprego_Pct": 3.1,
+    "Usuarios_Internet_Pct": 93.0
+  },
+  {
+    "Pais": "India",
+    "Populacao_Milhoes": 1407.6,
+    "PIB_Trilhoes_USD": 3.173,
+    "Forca_Trabalho_Agricultura_Pct": 43.51,
+    "Taxa_Desemprego_Pct": 7.7,
+    "Usuarios_Internet_Pct": 43.0
+  },
+  {
+    "Pais": "Reino Unido",
+    "Populacao_Milhoes": 67.3,
+    "PIB_Trilhoes_USD": 3.187,
+    "Forca_Trabalho_Agricultura_Pct": 1.0,
+    "Taxa_Desemprego_Pct": 4.1,
+    "Usuarios_Internet_Pct": 94.9
+  },
+  {
+    "Pais": "Franca",
+    "Populacao_Milhoes": 65.5,
+    "PIB_Trilhoes_USD": 2.937,
+    "Forca_Trabalho_Agricultura_Pct": 1.6,
+    "Taxa_Desemprego_Pct": 7.4,
+    "Usuarios_Internet_Pct": 92.0
+  },
+  {
+    "Pais": "Brasil",
+    "Populacao_Milhoes": 212.6,
+    "PIB_Trilhoes_USD": 2.18,
+    "Forca_Trabalho_Agricultura_Pct": 8.2,
+    "Taxa_Desemprego_Pct": 6.6,
+    "Usuarios_Internet_Pct": 89.1
+  },
+  {
+    "Pais": "Canada",
+    "Populacao_Milhoes": 38.2,
+    "PIB_Trilhoes_USD": 1.99,
+    "Forca_Trabalho_Agricultura_Pct": 0.8,
+    "Taxa_Desemprego_Pct": 5.3,
+    "Usuarios_Internet_Pct": 96.3
+  },
+  {
+    "Pais": "Russia",
+    "Populacao_Milhoes": 145.1,
+    "PIB_Trilhoes_USD": 1.778,
+    "Forca_Trabalho_Agricultura_Pct": 5.7,
+    "Taxa_Desemprego_Pct": 4.3,
+    "Usuarios_Internet_Pct": 88.2
+  },
+  {
+    "Pais": "Australia",
+    "Populacao_Milhoes": 25.9,
+    "PIB_Trilhoes_USD": 1.542,
+    "Forca_Trabalho_Agricultura_Pct": 2.1,
+    "Taxa_Desemprego_Pct": 3.9,
+    "Usuarios_Internet_Pct": 90.5
+  },
+  {
+    "Pais": "Coreia do Sul",
+    "Populacao_Milhoes": 51.7,
+    "PIB_Trilhoes_USD": 1.798,
+    "Forca_Trabalho_Agricultura_Pct": 4.7,
+    "Taxa_Desemprego_Pct": 3.0,
+    "Usuarios_Internet_Pct": 97.7
+  },
+  {
+    "Pais": "Mexico",
+    "Populacao_Milhoes": 126.7,
+    "PIB_Trilhoes_USD": 1.291,
+    "Forca_Trabalho_Agricultura_Pct": 11.96,
+    "Taxa_Desemprego_Pct": 3.5,
+    "Usuarios_Internet_Pct": 75.7
+  },
+  {
+    "Pais": "Indonesia",
+    "Populacao_Milhoes": 276.4,
+    "PIB_Trilhoes_USD": 1.186,
+    "Forca_Trabalho_Agricultura_Pct": 28.77,
+    "Taxa_Desemprego_Pct": 6.5,
+    "Usuarios_Internet_Pct": 73.7
+  },
+  {
+    "Pais": "Espanha",
+    "Populacao_Milhoes": 47.4,
+    "PIB_Trilhoes_USD": 1.425,
+    "Forca_Trabalho_Agricultura_Pct": 4.2,
+    "Taxa_Desemprego_Pct": 13.3,
+    "Usuarios_Internet_Pct": 93.9
+  },
+  {
+    "Pais": "Arabia Saudita",
+    "Populacao_Milhoes": 35.9,
+    "PIB_Trilhoes_USD": 0.833,
+    "Forca_Trabalho_Agricultura_Pct": 2.2,
+    "Taxa_Desemprego_Pct": 5.9,
+    "Usuarios_Internet_Pct": 97.9
+  },
+  {
+    "Pais": "Turquia",
+    "Populacao_Milhoes": 84.7,
+    "PIB_Trilhoes_USD": 0.78,
+    "Forca_Trabalho_Agricultura_Pct": 17.2,
+    "Taxa_Desemprego_Pct": 12.0,
+    "Usuarios_Internet_Pct": 83.4
+  },
+  {
+    "Pais": "Nigeria",
+    "Populacao_Milhoes": 213.4,
+    "PIB_Trilhoes_USD": 0.44,
+    "Forca_Trabalho_Agricultura_Pct": 36.4,
+    "Taxa_Desemprego_Pct": 33.3,
+    "Usuarios_Internet_Pct": 51.0
+  },
+  {
+    "Pais": "Argentina",
+    "Populacao_Milhoes": 45.8,
+    "PIB_Trilhoes_USD": 0.491,
+    "Forca_Trabalho_Agricultura_Pct": 0.6,
+    "Taxa_Desemprego_Pct": 7.0,
+    "Usuarios_Internet_Pct": 87.2
+  },
+  {
+    "Pais": "Africa do Sul",
+    "Populacao_Milhoes": 60.4,
+    "PIB_Trilhoes_USD": 0.419,
+    "Forca_Trabalho_Agricultura_Pct": 4.6,
+    "Taxa_Desemprego_Pct": 34.4,
+    "Usuarios_Internet_Pct": 70.0
+  },
+  {
+    "Pais": "Egito",
+    "Populacao_Milhoes": 104.5,
+    "PIB_Trilhoes_USD": 0.404,
+    "Forca_Trabalho_Agricultura_Pct": 19.2,
+    "Taxa_Desemprego_Pct": 7.2,
+    "Usuarios_Internet_Pct": 71.9
+  },
+  {
+    "Pais": "Vietna",
+    "Populacao_Milhoes": 97.4,
+    "PIB_Trilhoes_USD": 0.366,
+    "Forca_Trabalho_Agricultura_Pct": 32.98,
+    "Taxa_Desemprego_Pct": 2.3,
+    "Usuarios_Internet_Pct": 73.2
+  },
+  {
+    "Pais": "Coreia do Norte",
+    "Populacao_Milhoes": 25.9,
+    "PIB_Trilhoes_USD": null,
+    "Forca_Trabalho_Agricultura_Pct": 37.3,
+    "Taxa_Desemprego_Pct": 2.9,
+    "Usuarios_Internet_Pct": null
+  },
+  {
+    "Pais": "Itália",
+    "Populacao_Milhoes": 58.9,
+    "PIB_Trilhoes_USD": 2.37,
+    "Forca_Trabalho_Agricultura_Pct": 2.2,
+    "Taxa_Desemprego_Pct": 6.1,
+    "Usuarios_Internet_Pct": 86.9
+  },
+  {
+    "Pais": "Países Baixos",
+    "Populacao_Milhoes": 17.9,
+    "PIB_Trilhoes_USD": 1.23,
+    "Forca_Trabalho_Agricultura_Pct": 1.9,
+    "Taxa_Desemprego_Pct": 4.0,
+    "Usuarios_Internet_Pct": 98.0
+  },
+  {
+    "Pais": "Suíça",
+    "Populacao_Milhoes": 9.05,
+    "PIB_Trilhoes_USD": 0.937,
+    "Forca_Trabalho_Agricultura_Pct": 1.91,
+    "Taxa_Desemprego_Pct": 2.8,
+    "Usuarios_Internet_Pct": 98.0
+  }
+]
