@@ -206,5 +206,85 @@
     "Forca_Trabalho_Agricultura_Pct": 1.91,
     "Taxa_Desemprego_Pct": 2.8,
     "Usuarios_Internet_Pct": 98.0
+  },
+  {
+    "Pais": "Polônia",
+    "Populacao_Milhoes": 36.8,
+    "PIB_Trilhoes_USD": 0.84,
+    "Forca_Trabalho_Agricultura_Pct": 8.5,
+    "Taxa_Desemprego_Pct": 2.9,
+    "Usuarios_Internet_Pct": 88.5
+  },
+  {
+    "Pais": "Suécia",
+    "Populacao_Milhoes": 10.5,
+    "PIB_Trilhoes_USD": 0.62,
+    "Forca_Trabalho_Agricultura_Pct": 1.6,
+    "Taxa_Desemprego_Pct": 7.7,
+    "Usuarios_Internet_Pct": 98.0
+  },
+  {
+    "Pais": "Tailândia",
+    "Populacao_Milhoes": 71.8,
+    "PIB_Trilhoes_USD": 0.54,
+    "Forca_Trabalho_Agricultura_Pct": 31.0,
+    "Taxa_Desemprego_Pct": 1.0,
+    "Usuarios_Internet_Pct": 85.3
+  },
+  {
+    "Pais": "Filipinas",
+    "Populacao_Milhoes": 117.3,
+    "PIB_Trilhoes_USD": 0.47,
+    "Forca_Trabalho_Agricultura_Pct": 24.0,
+    "Taxa_Desemprego_Pct": 4.5,
+    "Usuarios_Internet_Pct": 68.0
+  },
+  {
+    "Pais": "Colômbia",
+    "Populacao_Milhoes": 52.1,
+    "PIB_Trilhoes_USD": 0.38,
+    "Forca_Trabalho_Agricultura_Pct": 15.7,
+    "Taxa_Desemprego_Pct": 10.3,
+    "Usuarios_Internet_Pct": 75.7
+  },
+  {
+    "Pais": "Israel",
+    "Populacao_Milhoes": 9.8,
+    "PIB_Trilhoes_USD": 0.53,
+    "Forca_Trabalho_Agricultura_Pct": 0.9,
+    "Taxa_Desemprego_Pct": 3.4,
+    "Usuarios_Internet_Pct": 91.0
+  },
+  {
+    "Pais": "Paquistão",
+    "Populacao_Milhoes": 240.5,
+    "PIB_Trilhoes_USD": 0.37,
+    "Forca_Trabalho_Agricultura_Pct": 37.4,
+    "Taxa_Desemprego_Pct": 6.3,
+    "Usuarios_Internet_Pct": 36.7
+  },
+  {
+    "Pais": "Chile",
+    "Populacao_Milhoes": 19.6,
+    "PIB_Trilhoes_USD": 0.33,
+    "Forca_Trabalho_Agricultura_Pct": 7.1,
+    "Taxa_Desemprego_Pct": 8.7,
+    "Usuarios_Internet_Pct": 90.2
+  },
+  {
+    "Pais": "Emirados Árabes Unidos",
+    "Populacao_Milhoes": 9.5,
+    "PIB_Trilhoes_USD": 0.53,
+    "Forca_Trabalho_Agricultura_Pct": 0.1,
+    "Taxa_Desemprego_Pct": 2.8,
+    "Usuarios_Internet_Pct": 99.0
+  },
+  {
+    "Pais": "Bélgica",
+    "Populacao_Milhoes": 11.7,
+    "PIB_Trilhoes_USD": 0.66,
+    "Forca_Trabalho_Agricultura_Pct": 1.0,
+    "Taxa_Desemprego_Pct": 5.5,
+    "Usuarios_Internet_Pct": 94.0
   }
 ]
